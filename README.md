@@ -33,6 +33,7 @@ use is at your own risk.
 
 * [Battery](./battery.md)
 * [Cabin Air Filter](./cabin-air-filter.md)
-* [Oil](./oil.md)
 * [Fluids](./fluids.md)
+* [Oil](./oil.md)
+* [Specs](./specs.md)
 
