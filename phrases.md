@@ -8,6 +8,7 @@ Helpful phrases when searching Yahoo/Google.
 | English     | Japanese                 | Actual phrase        | Quality           |
 | ----------- | ------------------------ | -------------------- | ----------------- |
 | Hijet Truck | ハイゼットトラック       |                      | Good              |
+| Kei Truck   | 軽トラ                   | Light Truck          | Good              |
 | Dashcam     | ドライブレコーダー       | Drive Recorder       | Good              |
 
 
