@@ -85,7 +85,9 @@ You'll find your paint code on the chassis plate which visible at the front of t
 
 ### Jumbo Extra Cab
 
-| Bed base length | ? |
+| Name            | Length |
+| --------------- | ------ |
+| Bed base length | 2000 |
 | Bed window length | 1650 |
 | Width | 1410 |
 | Loading platform height | 285 |
@@ -96,6 +98,8 @@ You'll find your paint code on the chassis plate which visible at the front of t
 
 Vehicle without tall roof and cubby is 1780
 
+| Name            | Length |
+| --------------- | ------ |
 | Bed base length | 2030 |
 | Bed window length | 1940 |
 | Width | 1410 |
