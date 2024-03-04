@@ -5,12 +5,15 @@ Helpful phrases when searching Yahoo/Google.
 
 ## List
 
-| English     | Japanese                 | Actual phrase        | Quality           |
-| ----------- | ------------------------ | -------------------- | ----------------- |
-| Hijet Truck | ハイゼットトラック       |                      | Good              |
-| Kei Truck   | 軽トラ                   | Light Truck          | Good              |
-| Dashcam     | ドライブレコーダー       | Drive Recorder       | Good              |
-
+| English                   | Japanese                 | Actual phrase        | Quality           |
+| ------------------------- | ------------------------ | -------------------- | ----------------- |
+| Hijet Truck               | ハイゼットトラック       |                      | Good              |
+| Kei Truck                 | 軽トラ                   | Light Truck          | Good              |
+| Dashcam                   | ドライブレコーダー       | Drive Recorder       | Good              |
+| Electronics Parts Catalog | 電子パーツカタログ       |                      | Good              |
+| Wiring Diagram Collection | 配線図集                 |                      | Good              |
+| Service Manual            | サービスマニュアル       |                      | Good              |
+| Repair Manual             | 修理書                   | Repair Book          | Good              |
 
 ### Quality
 
