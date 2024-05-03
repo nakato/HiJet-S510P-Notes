@@ -15,13 +15,42 @@ This is a full-synthetic oil.
 
 ## Filter
 
-### OEM
+*** AFTERMARKET FILTERS UNVERIFIED USE AT OWN RISK ***
 
-Part number: 15601-BW010
-Cost: $20AUD
+| ------------------- | ---------------------------- | --------------- |
+| Part                | Known Available At           | Price           |
+| ------------------- | ---------------------------- | --------------- |
+| **OEM** 15601-BW010 | JustJap                      | 20              |
+| K&N HP-1003         | GA¹                          | 25              |
+| K&N SO-1003         | GA¹                          | 15              |
+| Ryco Z386           | GA¹                          | 20              |
+| Ryco Z386ST         | GA¹                          | 25              |
+| SCA386              | GA¹                          | 17              |
+| JAPAN MODELS        |                              |                 |
+| Denso SF103         |                              | ¥1,736          |
+| Denso MF103         |                              | ¥2,591          |
+| OILF10              |                              |                 |
+| モノタロウ Monotaro SO-50 |                        | ¥429+tax        |
+
+* ¹ *GA* means it's avilable generally. SuperCheapAuto, Repco, Autobarn, etc.
+
+
+
+| ------------- | ------- |
+| Spec          | Value   |
+| ------------- | ------- |
+| Diameter      | 65mm    |
+| Seal Diameter | 63mm    |
+| Thread        | 3/4"x16 |
 
 Tightening: 3/4 turn from gasket touching.  **UNVERIFIED**
 Removal tool size: 64mm x 14 splines **UNVERIFIED**
+
+### Notes
+
+Oil filter hasn't changed since at least S100 (1994).
+Oil filter is common to a lot of Toyota's.
+
 
 
 ## Bolts
