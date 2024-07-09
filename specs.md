@@ -2,6 +2,8 @@
 
 Spattering of specs, tables are hard to deal with, so I'm not doing everything.
 
+| Key    | Value |
+| ------ | ----- |
 | Engine | KF Type, 658cc |
 | Height | 1,885 |
 | Wheelbase | 1900 |

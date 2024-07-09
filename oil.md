@@ -17,7 +17,6 @@ This is a full-synthetic oil.
 
 *** AFTERMARKET FILTERS UNVERIFIED USE AT OWN RISK ***
 
-| ------------------- | ---------------------------- | --------------- |
 | Part                | Known Available At           | Price           |
 | ------------------- | ---------------------------- | --------------- |
 | **OEM** 15601-BW010 | JustJap                      | 20              |
@@ -36,7 +35,6 @@ This is a full-synthetic oil.
 
 
 
-| ------------- | ------- |
 | Spec          | Value   |
 | ------------- | ------- |
 | Diameter      | 65mm    |
