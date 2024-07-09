@@ -45,16 +45,36 @@ that's not how CCA is measured, and I'm guessing this being used to hide an
 inferior product.
 
 
+### Australian Replacements
+
+| Name                       | Model          | Notes  |
+| -------------------------- | -------------- | ------ |
+| Energizer M42L EFB 400 CCA | EM42LEFB       |        |
+| Delkor EFB SM42B20LEFB     | SM42B20LEFB    |        |
+| AC Delco EFB SM42B20LEFB   | SM42B20LEFB    |        |
+
+
+#### Emergency batteries
+
+These might work.  But they're not optimal.
+Group size NS40 is worth looking at.
+
+| Name                       | Model          | Notes  |
+| -------------------------- | -------------- | ------ |
+| Century NS40ZL MF          |                | Not Start-Stop |
+| Century N65R               |                | Terminals backwards, might be too long to fit.  Requires moving cable mounts to avoid kinking positive lead. |
+| SCA NS40ZL SMF             |                | Should fit.  The HALP I'm stranded battery.  Not Start-Stop.    |
+
 ### Lithium replacement
 
-If the above numbers refer to complete capacity and not usable capacity, then
-between 30-50% of the above is the usable capacity, which may mean there are
-lithium car batteries that may be used in place of the flooded lead acid.
 
-I do not know if switching to a LiFePO4 would work well with Idle-Stop as I
-assume the ECU is monitoring battery voltage to determine if the battery is
-prepared to run all the accessories and re-start the car before shutting the
-engine off.
+They're expensive...
+
+| Name                       | Model          | Notes  |
+| -------------------------- | -------------- | ------ |
+| MegaLife Battery           | MV-19L         | Start-stop? |
+| PowerWorld LS40ZAL SSB Lithium Starting Car Battery | LS40ZAL |  |
+
 
 
 ### Warranty
