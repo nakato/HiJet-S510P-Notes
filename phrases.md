@@ -14,6 +14,8 @@ Helpful phrases when searching Yahoo/Google.
 | Wiring Diagram Collection | 配線図集                 |                      | Good              |
 | Service Manual            | サービスマニュアル       |                      | Good              |
 | Repair Manual             | 修理書                   | Repair Book          | Good              |
+| License Plate             | ナンバープレート         | Number Plate         | Unknown           |
+| License Plate             | 自動車登録番号標         | Vehicle registration number plate | Unknown |
 
 ### Quality
 
