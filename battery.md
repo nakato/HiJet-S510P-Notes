@@ -28,6 +28,10 @@ using a 60B20L in place of a M42 is advisiable.
 
 ### Technical Information
 
+| Depth | Length | Height (ex Term) | Height (w terminals) |
+| ----- | ------ | ---------------- | -------------------- |
+| 128mm | 196mm  | 202mm            | ~225mm               |
+
 The following is sourced from the specs of various M42 batteries found for
 sale. I do not know what the M42 spec specifies as a requirement, and the
 specs from various manufactures may be exceeding the standard.
