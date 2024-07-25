@@ -14,7 +14,9 @@ Unknown
 
 ## Size
 
-Unknown, I didn't measure before installation.
+Measured: 180x180x30
+
+From Product: 184x178x28
 
 
 ## Aftermarket Filters
@@ -23,3 +25,7 @@ Unknown, I didn't measure before installation.
   * What came with my Hijet.
   * Hijset not listed as a supported vehicle.
   * Aprox cost ¥1415
+
+### Australian equivalents
+
+I haven't replaced mine yet, but filters for a 2017 Suzuki Swift 1.6L should work.

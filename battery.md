@@ -5,16 +5,13 @@ The OEM battery is a Flooded Lead Acid battery.  It conforms to JIS M42.
 
 ## Maintenance
 
-As a flooded lead acid battery, this is a maintenance item.  If unsure how to
+As a flooded lead acid battery, it is a maintenance item.  If unsure how to
 maintain a flooded battery consult proper flooded lead acid battery maintenance
 documentation or ask your local auto-parts store or mechanic.
 
-If plates are exposed above water level, special care will need to be taken.
-
 Shaking the vehicle may help find the water level if it is difficult to see.
 
-OEM battery high and low levels should be visible without removing cover, but
-confirming this by removing the cover the first time is a good idea.
+OEM battery high and low levels should be visible without removing cover.
 
 
 ## M42
@@ -22,8 +19,8 @@ confirming this by removing the cover the first time is a good idea.
 The battery is an `M42`, this is a JIS format number used for Idle-Stop batteries.
 
 It is similar to non-Idle-Stop battery xxB20L.  Manufactures appear to say
-M42 can be used where a 60B20L would normally be used.  I do not know if
-using a 60B20L in place of a M42 is advisiable.
+M42 can be used where a 60B20L would normally be used.  If you have idle-stop,
+you should only install a battery ilde-stop rated.
 
 
 ### Technical Information
@@ -61,7 +58,7 @@ inferior product.
 #### Emergency batteries
 
 These might work.  But they're not optimal.
-Group size NS40 is worth looking at.
+Anything group size NS40 is worth looking at.
 
 | Name                       | Model          | Notes  |
 | -------------------------- | -------------- | ------ |

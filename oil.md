@@ -54,21 +54,21 @@ Oil filter is common to a lot of Toyota's.
 ## Bolts
 
 * Sump Bolt
-  * M12x1.25 **UNVERIFIED**
+  * M12x1.25
   * 29.5±5.9N・m (301±60kgf・cm)  **UNVERIFIED**
   * Anecdotal, 25Nm
 * Pan bolts
   * 8Nm  **UNVERIFIED**
 
-### Infamous
+### Sump bolt torque
 
 Sump bolt on KF engine seems to be infamous for stripping out.
 
 Some tips found online
 * Clean drain bolt threads with parts cleaner.
 * Clean threaded part of oil pan with parts cleaner.
-  * But don't get it in the engine...
-* Start the bolt by hand
+  * But don't get it in the engine.
+* Start the bolt by hand.
 
 Early KF engines apparently used a short bolt that didn't go all the way through the pan.
 This was apparently reworked at some point, and the OEM plug is now longer, so if it's stubby, consider replacing it.
@@ -76,16 +76,9 @@ Supposedly the thread length on the stubby is 9mm, and has been increased to 16m
 
 Manual oil extractors are said to be effective on the KF engine.
 
-I'll be installing a Fumoto F103SX on my first oil change.
-The specs on the Fumoto F013SX call for 20Nm.
+### Fumoto
 
+I installed a Fumoto F103SX at my first oil change.
+The specs on the Fumoto F103SX call for 20Nm.
 
-## Notes
-
-You've got an import vehicle, parts are hard to get, mechanics are hard to
-find.  Do not skimp on oil, it only takes 3-something litres.
-
-I'm using a full synthetic oil of a brand I believe to be of high quality.
-It costs $25AUD/litre.
-
-
+![F103SX on Hijet Truck](/assets/fumoto-s510p.jpg)

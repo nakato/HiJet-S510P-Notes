@@ -17,10 +17,7 @@ references Japanese Industrial Standards (JIS).
   * Shops are unlikely to know all required standards referenced in the manual.
 
 This is thus a collection of information I've needed or think I may need in
-the future quickly.  For example, I only want to convert the service
-intervals once, and I think it is possible that I may need to know what
-battery I can use on the vehicle in very quickly one day, as that is a
-consumable item.  I welcome additional contributions of information.
+the future quickly.  I welcome additional contributions of information.
 
 
 ## Disclaimer
@@ -31,9 +28,12 @@ use is at your own risk.
 
 ## Index
 
-* [Battery](./battery.md)
-* [Cabin Air Filter](./cabin-air-filter.md)
-* [Fluids](./fluids.md)
-* [Oil](./oil.md)
-* [Specs](./specs.md)
+* [Battery](/battery.md)
+* [Cabin Air Filter](/cabin-air-filter.md)
+* [Fluids](/fluids.md)
+* [Meter Customisation Options](/meter-customisation-options.md)
+* [Oil](/oil.md)
+* [Parts](/parts.md)
+* [Phrases](/phrases.md)
+* [Specs](/specs.md)
 
